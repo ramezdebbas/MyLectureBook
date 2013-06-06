@@ -1,0 +1,12 @@
+A lectures book for you providing you all the features to note down your lectures. Add Tagging and categorize you lectures according to the dates, having option to add different colors, option to add multiple lectures quickly & easily. The Recycle Bin for you deleted lecuters. Option to backup & restore the data.
+	
+Features:
+•	Notepad for note down the data.
+•	Add Tagging.
+•	Categorize your notes according to the dates.
+•	Application of different colours.
+•	Option to add multiple lectures.
+•	Delete the lectures.
+•	Recycle Bin for the deleted lectures.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing)
